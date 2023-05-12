@@ -14,7 +14,7 @@
  
  <br>
  
-  ### Sou Iniciante em programação e muito interessado no aprndrizado dá uma força ai!
+  ### Sou Iniciante em programação e muito interessado no aprendizado dá uma força ai!
  
 <div> 
 
