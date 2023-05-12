@@ -14,12 +14,10 @@
  
  <br>
  
-  ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+  ### Sou Iniciante em programação e muito interessado no aprndrizado dá uma força ai!
  
 <div> 
-  badge&logo=youtube&logoColor=white" target="_blank"></a>
- badge&logo=instagram&logoColor=white" target="_blank"></a>
-badge&logo=discord&logoColor=white" target="_blank"></a> 
+
   <a href = "islmachadodias@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
  
